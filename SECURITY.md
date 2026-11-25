@@ -1,10 +1,10 @@
-# Security Policy — ProjectName
+# Security Policy — Rasid Khan
 
-The security of ProjectName and its users is important to us.
+The security of Rasid Khan and its users is important to us.
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in ProjectName, please report it responsibly.
+If you discover a security vulnerability in Rasid Khan, please report it responsibly.
 
 ### Preferred Reporting Method
 
@@ -43,6 +43,6 @@ However, response times, remediation timelines, and security updates are not gua
 
 Please allow the maintainers reasonable time to investigate and address reported vulnerabilities before publicly disclosing them.
 
-We appreciate responsible disclosure and the effort you make to protect ProjectName and its users.
+We appreciate responsible disclosure and the effort you make to protect Rasid Khan and its users.
 
-Thank you for helping keep ProjectName secure.
+Thank you for helping keep Rasid Khan secure.

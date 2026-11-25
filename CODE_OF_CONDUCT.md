@@ -1,8 +1,8 @@
-# Code of Conduct — ProjectName
+# Code of Conduct — Rasid Khan
 
 ## Our Commitment
 
-We are committed to providing a welcoming, respectful, and inclusive environment for everyone contributing to or interacting with ProjectName.
+We are committed to providing a welcoming, respectful, and inclusive environment for everyone contributing to or interacting with Rasid Khan.
 
 We welcome contributions regardless of experience, background, nationality, gender, identity, beliefs, or personal circumstances.
 
@@ -47,10 +47,10 @@ All reports will be handled as respectfully and confidentially as reasonably pos
 
 ## Scope
 
-This Code of Conduct applies to all ProjectName project spaces, including GitHub repositories, discussions, pull requests, issues, and other community-related interactions.
+This Code of Conduct applies to all Rasid Khan project spaces, including GitHub repositories, discussions, pull requests, issues, and other community-related interactions.
 
 ## Acknowledgment
 
-By participating in ProjectName, you agree to follow this Code of Conduct.
+By participating in Rasid Khan, you agree to follow this Code of Conduct.
 
 We believe open-source projects should be built through respect, collaboration, and shared responsibility.

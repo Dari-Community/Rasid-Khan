@@ -1,6 +1,6 @@
-# Contributing to ProjectName
+# Contributing to Rasid Khan
 
-Thank you for your interest in contributing to ProjectName!
+Thank you for your interest in contributing to Rasid Khan!
 
 Contributions of all kinds are welcome, including bug fixes, improvements, documentation, feature suggestions, and other meaningful changes.
 
@@ -17,7 +17,7 @@ Before making a contribution:
 
 ### 1. Fork the Repository
 
-Create a fork of the ProjectName repository.
+Create a fork of the Rasid Khan repository.
 
 ### 2. Clone Your Fork
 
@@ -53,7 +53,7 @@ Examples:
 
 ### 6. Submit a Pull Request
 
-Submit a Pull Request to the original ProjectName repository.
+Submit a Pull Request to the original Rasid Khan repository.
 
 Your Pull Request should:
 
@@ -93,7 +93,7 @@ You can contribute by correcting errors, improving explanations, adding examples
 
 ## License
 
-By submitting a contribution, you acknowledge that your contribution will be distributed under the license applicable to ProjectName, as defined by the project maintainers.
+By submitting a contribution, you acknowledge that your contribution will be distributed under the license applicable to Rasid Khan, as defined by the project maintainers.
 
 Please review the project's LICENSE file before contributing.
 
@@ -101,4 +101,4 @@ Please review the project's LICENSE file before contributing.
 
 If you have questions about contributing, open an issue or use the project's available discussion channels.
 
-Thank you for contributing to ProjectName!
+Thank you for contributing to Rasid Khan!

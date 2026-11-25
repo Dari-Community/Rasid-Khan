@@ -1,6 +1,6 @@
-# Support — ProjectName
+# Support — Rasid Khan
 
-Thank you for using **ProjectName**.
+Thank you for using **Rasid Khan**.
 
 If you need help, have questions, or encounter a problem, please use the following channels.
 
@@ -16,7 +16,7 @@ If you need help, have questions, or encounter a problem, please use the followi
 Please make sure to:
 
 - Check existing issues and discussions.
-- Use the latest available version of ProjectName.
+- Use the latest available version of Rasid Khan.
 - Provide enough information to reproduce your problem.
 - Include relevant error messages, screenshots, or logs when appropriate.
 
@@ -40,4 +40,4 @@ Please refer to [SECURITY.md](SECURITY.md) for instructions on reporting securit
 
 Support is provided on a best-effort basis. There is no guarantee of response times, fixes, or individual assistance.
 
-Thank you for supporting ProjectName.
+Thank you for supporting Rasid Khan.
